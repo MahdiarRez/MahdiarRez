@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="157" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFuY2RpaG92N2c0NzRuazZ2amtxZGw4aHpxdHlhcjI2NHFkNWxzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -49,3 +45,6 @@
   </a>
 </div>
 
+###
+
+<img align="left" height="157" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFuY2RpaG92N2c0NzRuazZ2amtxZGw4aHpxdHlhcjI2NHFkNWxzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
